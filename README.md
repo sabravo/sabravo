@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/bravoman2016" target="blank"><img src="https://img.shields.io/twitter/follow/bravoman2016?logo=twitter&style=for-the-badge" alt="bravoman2016" /></a> </p>
 
-- 🌱 I’m currently learning **Robotic reducing high level of suicide in society**
+- 🌱 I’m currently working on **Robotic reducing high level of suicide in society**
 
-- 💬 Ask me about **Python, JavaScript, C, Node, HTML/CSS, SQL, PHP.**
+- 💬 Ask me about **Python, JavaScript, C, C++, Node, HTML/CSS, SQL, PHP.**
 
 - 📫 How to reach me **belloaugustine@gmail.com**
 
